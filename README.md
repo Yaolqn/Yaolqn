@@ -1,16 +1,27 @@
-## Hi there 👋
+| 这个作业属于哪个课程 | [班级的链接](https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience) |
+| ----------------- |--------------- |
+| 这个作业要求在哪里| [作业要求的链接](https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience/homework/13469) |
+| 这个作业的目标 | 自我介绍、阅读教材后的问题、想要获得的收获、我的github地址 |
+ 
+## 一、自我介绍
+  - 喜欢听音乐、玩游戏
+  - 曾在roblox学习并制作游戏
+ ## 二、阅读教材后的问题
+  - 如何通过代码规范、自动化测试及版本控制策略保障多人协作的开发效率
+  - 如何将个体开发经验沉淀为团队通用的技术解决方案库
+  - 在软件工程中，迭代开发与反馈调整阶段如何具体融入项目执行过程
+  - 如何依靠架构设计文档增强软件系统的可理解性
+  - 如何提高软件的可维护性，减少软件系统总成本
+ ## 三、想要获得的收获
+  - 了解完整的开发流程
+  - 学会如何与团队合作
+  - 学会如何提高开发的效率
+ ## 四、我的GitHub地址
+  - https://github.com/Yaolqn
+![image](https://img2024.cnblogs.com/blog/3624382/202509/3624382-20250908192313297-1825760703.png)
 
-<!--
-**Yaolqn/Yaolqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## 五、博客后台截图
+![image](https://img2024.cnblogs.com/blog/3624382/202509/3624382-20250908192010706-513547624.png)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   
+   
