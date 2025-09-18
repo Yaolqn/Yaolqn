@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8a74f18-eda0-4ff8-8f09-b58bf24ef2f5" name="更改" comment="文件输入功能">
+      <change beforePath="$PROJECT_DIR$/3123004423/SecondProject/src/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/3123004423/SecondProject/src/Project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3123004423/个人项目.md" beforeDir="false" afterPath="$PROJECT_DIR$/3123004423/个人项目.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RuanJianProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RuanJianProject.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/SecondProject" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yaolqn&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yaolqn/Yaolqn&quot;,
+    &quot;accountId&quot;: &quot;feb0c677-6d28-4615-a968-d9165ddb1c93&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="32luLiPhI1FUeAMc0ECVt8w3RDk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Project.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\80946\Desktop\JAVA\RuanJianProject\3123004423\SecondProject\src" />
+      <recent name="C:\Users\80946\Desktop\JAVA\RuanJianProject" />
+      <recent name="C:\Users\80946\Desktop\JAVA\RuanJianProject\3123004423\SecondProject" />
+      <recent name="C:\Users\80946\Desktop\JAVA\RuanJianProject\3123004423" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Project" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Project" />
+      <module name="RuanJianProject" />
+      <option name="PROGRAM_PARAMETERS" value="test/original.txt test/plagiarized.txt test/output.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Project" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c8a74f18-eda0-4ff8-8f09-b58bf24ef2f5" name="更改" comment="" />
+      <created>1758007427334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758007427334</updated>
+      <workItem from="1758007428415" duration="7076000" />
+      <workItem from="1758014561958" duration="519000" />
+      <workItem from="1758178053646" duration="51000" />
+      <workItem from="1758178111818" duration="3616000" />
+      <workItem from="1758181779287" duration="1476000" />
+    </task>
+    <task id="LOCAL-00001" summary="文件输入功能">
+      <option name="closed" value="true" />
+      <created>1758009273755</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758009273755</updated>
+    </task>
+    <task id="LOCAL-00002" summary="文件输入功能">
+      <option name="closed" value="true" />
+      <created>1758012895497</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758012895497</updated>
+    </task>
+    <task id="LOCAL-00003" summary="文件输入功能">
+      <option name="closed" value="true" />
+      <created>1758014846314</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758014846314</updated>
+    </task>
+    <task id="LOCAL-00004" summary="文件输入功能">
+      <option name="closed" value="true" />
+      <created>1758014900979</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758014900979</updated>
+    </task>
+    <task id="LOCAL-00005" summary="文件输入功能">
+      <option name="closed" value="true" />
+      <created>1758014996305</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758014996305</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/SecondProject" />
+    </ignored-roots>
+    <MESSAGE value="文件输入功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="文件输入功能" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RuanJianProject$Project.ic" NAME="Project 覆盖结果" MODIFIED="1758183032171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
