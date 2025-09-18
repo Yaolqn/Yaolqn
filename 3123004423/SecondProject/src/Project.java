@@ -19,9 +19,11 @@ public class Project {
         String outputPath = args[2];
 
         try {
+            // 读取文件内容
             String originalText = readFile(originalPath);
             String plagiarizedText = readFile(plagiarizedPath);
 
+            // 关键计算操作
             double similarity = calculateSimilarity(originalText, plagiarizedText);
 
             // 写入结果，保留两位小数
@@ -31,6 +33,7 @@ public class Project {
             }
 
         } catch (Exception e) {
+            // 读取文件失败退出
             System.err.println("Error processing files: " + e.getMessage());
             System.exit(1);
         }
@@ -52,7 +55,28 @@ public class Project {
     }
 
 
+    /**
+     * 使用动态规划计算 LCS，并返回基于 (2*LCS)/(len1+len2) 的相似度
+     */
     private static double calculateSimilarity(String s1, String s2) {
-        return 0;
+        int m = s1.length();
+        int n = s2.length();
+
+        if (m == 0 || n == 0) return 0.0;
+
+        int[][] dp = new int[m + 1][n + 1];
+
+        for (int i = 1; i <= m; i++) {
+            for (int j = 1; j <= n; j++) {
+                if (s1.charAt(i - 1) == s2.charAt(j - 1)) {
+                    dp[i][j] = dp[i - 1][j - 1] + 1;
+                } else {
+                    dp[i][j] = Math.max(dp[i - 1][j], dp[i][j - 1]);
+                }
+            }
+        }
+
+        int lcsLength = dp[m][n];
+        return (2.0 * lcsLength) / (m + n);
     }
 }
