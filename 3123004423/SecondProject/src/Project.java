@@ -42,7 +42,7 @@ public class Project {
     /**
      * 读取文件内容，合并所有行为一个字符串（去除每行首尾空格，但不拆分词）
      */
-    private static String readFile(String filePath) throws IOException {
+    public static String readFile(String filePath) throws IOException {
         StringBuilder sb = new StringBuilder();
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(
                 new FileInputStream(filePath), StandardCharsets.UTF_8))) {
@@ -58,7 +58,7 @@ public class Project {
     /**
      * 使用动态规划计算 LCS，并返回基于 (2*LCS)/(len1+len2) 的相似度
      */
-    private static double calculateSimilarity(String s1, String s2) {
+    public static double calculateSimilarity(String s1, String s2) {
         int m = s1.length();
         int n = s2.length();
 

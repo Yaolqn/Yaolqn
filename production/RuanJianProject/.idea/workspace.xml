@@ -55,7 +55,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.ProjectTest.executor": "Coverage",
+    "JUnit.ProjectTest.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -141,7 +141,7 @@
       <workItem from="1758178111818" duration="3616000" />
       <workItem from="1758181779287" duration="2295000" />
       <workItem from="1758357347788" duration="642000" />
-      <workItem from="1758358001068" duration="5558000" />
+      <workItem from="1758358001068" duration="1073000" />
     </task>
     <task id="LOCAL-00001" summary="文件输入功能">
       <option name="closed" value="true" />
@@ -241,7 +241,6 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/RuanJianProject$ProjectTest.ic" NAME="ProjectTest 覆盖结果" MODIFIED="1758360576820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
     <SUITE FILE_PATH="coverage/RuanJianProject$Project.ic" NAME="Project 覆盖结果" MODIFIED="1758183032171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
