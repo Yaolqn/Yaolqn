@@ -4,36 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8a74f18-eda0-4ff8-8f09-b58bf24ef2f5" name="更改" comment="结对项目--小学四则运算题目生成器">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3123004423/SecondProject/src/test/original.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3123004423/SecondProject/src/test/original.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3123004423/SecondProject/src/test/plagiarized.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3123004423/SecondProject/src/test/plagiarized.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/3123004423/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/3123004423/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/3123004423/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/3123004423/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/3123004423/SecondProject/SecondProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/arithmetic_device/arithmetic_device.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/3123004423/SecondProject/src/main.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/3123004423/SecondProject/src/manifest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/3123004423/SecondProject/src/test/original.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/3123004423/SecondProject/src/test/output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/3123004423/SecondProject/src/test/plagiarized.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/3123004423/个人项目.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/Project.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/ProjectTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/RuanJianProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/main.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/manifest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/test/original.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/test/output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/RuanJianProject/test/plagiarized.txt" beforeDir="false" />
+    <list default="true" id="c8a74f18-eda0-4ff8-8f09-b58bf24ef2f5" name="更改" comment="修改">
+      <change beforePath="$PROJECT_DIR$/arithmetic_device/src/img.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +162,7 @@
       <workItem from="1759996219917" duration="18000" />
       <workItem from="1760773313018" duration="1130000" />
       <workItem from="1760790663733" duration="2983000" />
-      <workItem from="1760843554806" duration="3252000" />
+      <workItem from="1760843554806" duration="3569000" />
     </task>
     <task id="LOCAL-00001" summary="文件输入功能">
       <option name="closed" value="true" />
@@ -272,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760846767818</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="修改">
+      <option name="closed" value="true" />
+      <created>1760846890041</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1760846890041</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +290,8 @@
     <MESSAGE value="report&amp;test" />
     <MESSAGE value="report修改" />
     <MESSAGE value="结对项目--小学四则运算题目生成器" />
-    <option name="LAST_COMMIT_MESSAGE" value="结对项目--小学四则运算题目生成器" />
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
